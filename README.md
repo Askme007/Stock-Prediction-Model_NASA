@@ -4,10 +4,10 @@ This project combines a Stacked LSTM model for stock price prediction with senti
 
 ## Contributors
 
+- [Ashkrit Rai](https://github.com/Askme007)
 - [Navdeep](https://github.com/NavdeepKakrod)
 - [Abhishek Kumar](https://github.com/Akabhi2311)
 - [Aayush Kumar](https://github.com/Akcodet7)
-- [Ashkrit Rai](https://github.com/Askme007)
 
 ## Features
 
